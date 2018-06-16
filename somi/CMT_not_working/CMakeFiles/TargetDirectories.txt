@@ -1,0 +1,3 @@
+/Users/Somi/cv_testing/CppMT/CMakeFiles/rebuild_cache.dir
+/Users/Somi/cv_testing/CppMT/CMakeFiles/edit_cache.dir
+/Users/Somi/cv_testing/CppMT/CMakeFiles/cmt.dir

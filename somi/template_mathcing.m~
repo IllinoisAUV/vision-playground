@@ -1,0 +1,16 @@
+J = imread('red_after.jpg');
+grey = rgb2gray(J);
+grey = double(grey);
+[px,py] = gradient(grey);
+
+% disp(px);
+% disp(py);
+% disp(grey);
+
+% % px_idx = find(abs(px)>5);
+% % py_idx = find(abs(py)>5);
+% % px(px_idx) = 0;
+% % py(px_idx) = 0;
+
+figure;
+quiver(px,py);
